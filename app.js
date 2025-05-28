@@ -1,6 +1,8 @@
-aaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccc
+a
+b
+c
+d
+
 
 'use strict';
 const fs = require('fs');
